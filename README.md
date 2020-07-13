@@ -56,9 +56,9 @@ The following changes were made:
 * Plotted __histograms of value counts vs category of different parameters__ like location, size of company, type of ownership, industry, sector, revenue, etc. to see the distribution of data in each category.
 * Made __pivot tables for average salary based on different parameters__ like job position, seniority, job state, industry, sector, revenue, type of ownership, required skills, etc. to observe the salary provided in each category.
 
-![alt text](https://github.com/chinmaysharmacs10/Salary_Predictor/blob/master/Pictures/correlation.png "Correlation between parameters and average salary")
-![alt text](https://github.com/chinmaysharmacs10/Salary_Predictor/blob/master/Pictures/location.png "Location vs number of jobs")
-![alt text](https://github.com/chinmaysharmacs10/Salary_Predictor/blob/master/Pictures/pivot_table.PNG "Pivot table")
+![alt text](https://github.com/chinmaysharmacs10/Data_Scientist_Salary_Predictor/blob/master/Pictures/correlation.png "Correlation between parameters and average salary")
+![alt text](https://github.com/chinmaysharmacs10/Data_Scientist_Salary_Predictor/blob/master/Pictures/location.png "Location vs number of jobs")
+![alt text](https://github.com/chinmaysharmacs10/Data_Scientist_Salary_Predictor/blob/master/Pictures/pivot_table.PNG "Pivot table")
 
 
 ## Building the Prediction Model
