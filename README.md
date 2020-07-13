@@ -36,7 +36,7 @@ We get the following columns for each job:
   * Competitors
   
 ## Cleaning the Data
-###### (File: data_cleaning.ipynb)
+###### (File: data_cleaning.ipynb & data_analysis_EDA.ipynb)
 The scraped data was cleaned to be used for our model. (File: model_data.csv).
 
 The following changes were made:
@@ -81,7 +81,7 @@ The following changes were made:
 ###### (File: Flask_API)
 Reference Article: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2.
 
-* Built a flask API endpoint that was hosted on a local webserver. 
-* The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary as response.
+* Built a flask API endpoint that was hosted on a local webserver. (File: Flask_API/app.py)
+* The API endpoint takes in a request with a list of values from a job listing and returns the salary predicted by our model as response. (File: Flask_API/request.py)
 * An sample response can be seen in (File: Flask_API/Sample_Request.ipynb), where the model predicts a salary of around $53,000 for a random data sample from the test set.
 
