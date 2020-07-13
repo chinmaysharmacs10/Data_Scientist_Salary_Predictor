@@ -12,12 +12,13 @@
 * __Packages used__: pandas, numpy, matplotlib, seaborn, sklearn, pickle, flask, json 
 
 ## Scraping Glassdoor.com for Jobs
-###### (File: glassdoor_scraper.py)
+###### (File: glassdoor_scraper.py & data_collection.py)
 Reference Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905.
 
 Reference Code: https://github.com/arapfaik/scraping-glassdoor-selenium.
 
-Used the above article and code for reference to scrape around 1000 data scientist jobs in U.S. from Glassdoor. (File: glassdoor_jobs.csv)
+Used the above article and code for reference to scrape around 1000 data scientist jobs in U.S. from Glassdoor (File: glassdoor_jobs.csv). Run the data_collection.py file to start scraping.
+
 We get the following columns for each job:
   * Job title
   * Salary Estimate
