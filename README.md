@@ -9,7 +9,7 @@
 * Built a client facing API using __Flask__.
 
 * __Python version__: 3.6.10
-* __Packages used__: pandas, numpy, matplotlib, seaborn, sklearn, pickle, flask, json 
+* __Libraries used__: pandas, numpy, matplotlib, seaborn, sklearn, pickle, flask, json 
 
 ## Scraping Glassdoor.com for Jobs
 ###### (File: glassdoor_scraper.py & data_collection.py)
