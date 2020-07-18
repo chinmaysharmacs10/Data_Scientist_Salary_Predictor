@@ -83,5 +83,5 @@ Reference Article: https://towardsdatascience.com/productionize-a-machine-learni
 
 * Built a flask API endpoint that was hosted on a local webserver. (File: Flask_API/app.py)
 * The API endpoint takes in a request with a list of values from a job listing and returns the salary predicted by our model as response. (File: Flask_API/request.py)
-* An sample response can be seen in (File: Flask_API/Sample_Request.ipynb), where the model predicts a salary of around $53,000 for a random data sample from the test set.
+* A sample response can be seen in (File: Flask_API/Sample_Request.ipynb), where the model predicts a salary of around $53,000 for a random data sample from the test set.
 
